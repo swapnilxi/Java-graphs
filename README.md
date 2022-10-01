@@ -1,2 +1,2 @@
-# Java-graph-swapnil
-A repository for learning java graphs
+# Java-graphs
+A repository for learning java graphs learning 
